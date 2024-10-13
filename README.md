@@ -1,5 +1,3 @@
-# Titanic Data Analysis Project
-
 ## Description
 This project performs an exploratory data analysis on the Titanic dataset from Kaggle. It demonstrates basic data cleaning, visualization, and analysis techniques using Python and popular data science libraries.
 
